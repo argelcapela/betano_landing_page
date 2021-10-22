@@ -1,5 +1,6 @@
 <h1 align="center">Betano Landing Page v1</h1>
 
+<img src="https://raw.githubusercontent.com/argelcapela/betano_landing_page/main/assets/wireframe/betano_landing_page_v1.jpg" alt="modelo" />
 
 ## :memo: Descrição
 Betano, conhecida como Betano.pt em Portugal, é uma casa de apostas desportivas com sede na Grécia. É um grupo de apostas detido pela KGIL. Patrocina clubes como o Olympiacos, Sporting CP,Steaua de Bucareste, Atlético Mineiro, Fluminense , Marítimo, Sporting de Braga e Os Belenenses.
