@@ -26,7 +26,7 @@ https://betanolandingpage.netlify.app/
 
 
 ## :soon: Implementação futura
-* Recursividade
+* Responsividade
 * Página de Cadastro
 * Cadastro em um click com o método Auth, usando as API(s): yahoo,google,facebook e linkedin.
 
