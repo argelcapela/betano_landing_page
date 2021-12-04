@@ -21,7 +21,7 @@ Link Figma:
 https://www.figma.com/file/Dv4oIk47UKDbkjQKqL1gYJ/betano-landing-page-%231?node-id=0%3A1
 
 Link Página:
-https://betanolandingpage.netlify.app/
+https://argelcapela.github.io/betano_landing_page/
 
 
 
