@@ -36,11 +36,11 @@ Landing Page: <a href="https://argelcapela.github.io/betano_landing_page/">Link<
 <div class="row">
 
 ## :soon: Implementação futura<br>
-<ul>
+
     <li>Responsividade</li>
     <li>Página de Cadastro</li>
     <li>Cadastro em um click com o método Auth, usando as API(s): yahoo,google,facebook e linkedin.</li>
-    </ul>
+    
         
 </div>
 <div class="row">
@@ -63,5 +63,5 @@ Landing Page: <a href="https://argelcapela.github.io/betano_landing_page/">Link<
 <div class="row">
     
 ## :dart: Status do projeto<br>
-* Finalizado em versão 1
+    <li>Finalizado em versão 1</li>
 </div>
