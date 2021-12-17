@@ -27,9 +27,9 @@ A página é bem simples, feita em modo Desktop sem muito apelo a responsividade
 <div class="row">
 
 ## :rocket: Rodando o projeto<br>
-Link Figma: <a href="https://www.figma.com/file/Dv4oIk47UKDbkjQKqL1gYJ/betano-landing-page-%231?node-id=0%3A1">Acessar</a>
-
-Link Página: <a href="https://argelcapela.github.io/betano_landing_page/">Acessar</a>
+Figma: <a href="https://www.figma.com/file/Dv4oIk47UKDbkjQKqL1gYJ/betano-landing-page-%231?node-id=0%3A1">Link</a>
+<br>
+Landing Page: <a href="https://argelcapela.github.io/betano_landing_page/">Link</a>
 
 
 </div>
