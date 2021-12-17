@@ -1,36 +1,51 @@
-<h1 align="center">Betano Landing Page v1</h1>
+<div class="hide-on-portfolio">
+    <h1 align="center">Betano Landing Page v1</h1>
 
 <img src="https://raw.githubusercontent.com/argelcapela/betano_landing_page/main/assets/wireframe/betano_landing_page_v1.jpg" alt="modelo" />
 
 ## :memo: Descrição
 Betano, conhecida como Betano.pt em Portugal, é uma casa de apostas desportivas com sede na Grécia. É um grupo de apostas detido pela KGIL. Patrocina clubes como o Olympiacos, Sporting CP,Steaua de Bucareste, Atlético Mineiro, Fluminense , Marítimo, Sporting de Braga e Os Belenenses.
+</div>
 
-## :books: Funcionalidades
-* A página é bem simples, feita em modo Desktop sem muito apelo a responsividade, mas com um design chamativo e diferente.
 
-## :wrench: Tecnologias utilizadas
+<div class="row">
+    
+## :books: Funcionalidades<br>
+A página é bem simples, feita em modo Desktop sem muito apelo a responsividade, mas com um design chamativo e diferente.
+
+</div>
+<div class="row">
+
+## :wrench: Tecnologias utilizadas<br>
 <div style="display: inline_block"><br>
     <img align="center" alt="gel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="gel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="gel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+</div>
+<div class="row">
 
-## :rocket: Rodando o projeto
-Link Figma: 
-https://www.figma.com/file/Dv4oIk47UKDbkjQKqL1gYJ/betano-landing-page-%231?node-id=0%3A1
+## :rocket: Rodando o projeto<br>
+Link Figma: <a href="https://www.figma.com/file/Dv4oIk47UKDbkjQKqL1gYJ/betano-landing-page-%231?node-id=0%3A1">Acessar</a>
 
-Link Página:
-https://argelcapela.github.io/betano_landing_page/
+Link Página: <a href="https://argelcapela.github.io/betano_landing_page/">Acessar</a>
 
 
+</div>
+<div class="row">
 
-## :soon: Implementação futura
-* Responsividade
-* Página de Cadastro
-* Cadastro em um click com o método Auth, usando as API(s): yahoo,google,facebook e linkedin.
+## :soon: Implementação futura<br>
+<ul>
+    <li>Responsividade</li>
+    <li>Página de Cadastro</li>
+    <li>Cadastro em um click com o método Auth, usando as API(s): yahoo,google,facebook e linkedin.</li>
+    </ul>
+        
+</div>
+<div class="row">
 
-## :handshake: Colaboradores
+## :handshake: Colaboradores<br>
 <table>
   <tr>
     <td align="center">
@@ -44,5 +59,9 @@ https://argelcapela.github.io/betano_landing_page/
   </tr>
 </table>
 
-## :dart: Status do projeto
+</div>
+<div class="row">
+    
+## :dart: Status do projeto<br>
 * Finalizado em versão 1
+</div>
