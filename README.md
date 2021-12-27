@@ -71,4 +71,3 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
 
 <li>Finalizado em versão 1.0</li>
 </div>
-<br>
