@@ -9,7 +9,7 @@
 Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste técnico executado para um processo seletivo da empresa Odd Scanner.
 </div>
 
-<div class="row">
+<div class="col-12">
 
 ## :wrench: Tecnologias utilizadas:<br>
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
     <img align="center" alt="gel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div class="row">
+<div class="col-12">
     
 ## :books: Funcionalidades:<br>
 <table class="special-border">
@@ -30,7 +30,7 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
     
 </div>
 
-<div class="row">
+<div class="col-12">
 
 ## :rocket: Rodando o projeto:<br>
 
@@ -39,7 +39,7 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
 <li>Landing Page: <a href="https://argelcapela.github.io/betano_landing_page/">Link</a></li>
  
 </div>
-<div class="row">
+<div class="col-12">
 
 ## :soon: Implementação futura:<br>
     
@@ -48,7 +48,7 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
 <li>Cadastro em um click com o método Auth, usando as API(s): yahoo,google,facebook e linkedin.</li>
     
 </div>
-<div class="row">
+<div class="col-12">
     
 
 ## :handshake: Colaboradores:<br>
@@ -65,7 +65,7 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
   </tr>
 </table>
 </div>
-<div class="row">
+<div class="col-12">
     
 ## :dart: Status do projeto:<br>
 
