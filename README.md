@@ -1,5 +1,4 @@
 <!--<div id="portfolio-slideshow-items" class="hide-on-portfolio" visibility="0">
-<div class="item" style="background-image: url('https://raw.githubusercontent.com/argelcapela/betano_landing_page/main/assets/wireframe/betano_landing_page_v1.jpg');"></div>
 </div>
 -->
 
@@ -71,6 +70,7 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
 ## :dart: Status do projeto:<br>
 
 <li>Finalizado em versão 1.0</li>
-    
+<br>
+<img src="https://raw.githubusercontent.com/argelcapela/betano_landing_page/main/assets/wireframe/betano_landing_page_v1.jpg" alt="modelo" />
 </div>
 <br>
