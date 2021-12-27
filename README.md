@@ -70,7 +70,5 @@ Landing Page para uma empresa de apostas online chamada Betano. Esse é um teste
 ## :dart: Status do projeto:<br>
 
 <li>Finalizado em versão 1.0</li>
-<br>
-<img src="https://raw.githubusercontent.com/argelcapela/betano_landing_page/main/assets/wireframe/betano_landing_page_v1.jpg" alt="modelo" />
 </div>
 <br>
